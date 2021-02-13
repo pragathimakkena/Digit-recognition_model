@@ -23,6 +23,4 @@ Logistic Regression
 - Run the following:
 - ```python digitfinal.py```
 
-### Contributors:
-- [Sharanya Mukherjee](https://github.com/sharanya02)
 
